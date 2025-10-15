@@ -17,6 +17,8 @@ I've got some experience with Tableau, and it's a great product, but I've always
 
 - 🔭 I’m currently developing a handful of shell scripts for Linux System Administration purposes in general.
 - 🌱 As of August 8th, 2025, I now possess a CompTIA Security+ certification, valid until August 8th, 2028.
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5246c05c-3b1f-484d-98be-73978cae1f2f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **coryStephenson/coryStephenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
